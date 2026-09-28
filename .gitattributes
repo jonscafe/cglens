@@ -1,0 +1,4 @@
+# Keep LF everywhere so the shell scripts run after a Windows checkout.
+* text=auto eol=lf
+*.lime binary
+*.cglime binary

@@ -1,0 +1,15 @@
+# Captures and everything derived from them. A dump, its sidecars and any
+# procdump output are copies of another workload's memory. NEVER COMMIT.
+*.lime
+*.cglime
+*.btf
+*.pagemeta.bin
+*.slabs.json
+*.kernel.json
+*.manifest.json
+*.pslist.json
+*.dmp
+out/
+
+__pycache__/
+*.pyc
