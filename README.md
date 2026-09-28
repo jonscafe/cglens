@@ -1,6 +1,6 @@
 # cglens
 
-Offline analysis of [cglime](../cglime) container memory captures.
+Offline analysis of [cglime](https://github.com/jonscafe/cglime) container memory captures.
 
 A cglime dump holds only the pages charged to one container. It has no
 `init_task`, no kernel image and no kernel page tables, so Volatility's Linux
